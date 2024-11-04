@@ -1,0 +1,51 @@
+.home-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.loader-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.imagesss {
+  height: 260px;
+  width: 260px;
+}
+.movies-containerss {
+  display: flex;
+  font-family: 'Roboto';
+  flex-direction: column;
+  background-color: cadetblue;
+  color: #fff;
+}
+.moviesss {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.detailsss {
+  margin-left: 10px;
+}
+.head-titless {
+  font-size: 25px;
+}
+.list-of-moviesss {
+  list-style-type: none;
+}
+.buttonsss {
+  background-color: cornflowerblue;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-family: 'Roboto';
+  color: #fff;
+  height: 30px;
+  border-radius: 10px;
+}
+.linsk {
+  text-decoration: none;
+  color: #fff;
+}

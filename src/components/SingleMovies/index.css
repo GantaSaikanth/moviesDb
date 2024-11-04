@@ -1,0 +1,13 @@
+.single-movies {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.details-page {
+  margin-left: 10px;
+}
+.list-of-castsss {
+  display: flex;
+  list-style-type: none;
+}

@@ -1,0 +1,12 @@
+.cast-image {
+  height: 160px;
+  width: 100px;
+}
+.cast-div {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.details-of-cast {
+  margin-left: 10px;
+}
